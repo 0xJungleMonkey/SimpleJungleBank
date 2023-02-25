@@ -3,7 +3,7 @@
 //   sqlc v1.17.0
 // source: transfer.sql
 
-package simple_bank
+package sqlc
 
 import (
 	"context"
